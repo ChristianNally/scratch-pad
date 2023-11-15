@@ -1,2 +1,5 @@
 # scratch-pad
-###hisban
+# Contributors
+Nally
+Ola
+hisban
